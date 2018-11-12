@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>一个假开发的博客</title>
+    <title>且听风吟</title>
     <link>http://hepanchen.github.io/</link>
-    <description>Recent content on 一个假开发的博客</description>
+    <description>Recent content on 且听风吟</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Nov 2018 16:35:24 +0800</lastBuildDate>
@@ -12,12 +12,17 @@
     
     
     <item>
-      <title>Hugo配置</title>
+      <title>Github pages &#43;  Hugo配置</title>
       <link>http://hepanchen.github.io/posts/hugo%E9%85%8D%E7%BD%AE/</link>
       <pubDate>Wed, 07 Nov 2018 16:35:24 +0800</pubDate>
       
       <guid>http://hepanchen.github.io/posts/hugo%E9%85%8D%E7%BD%AE/</guid>
-      <description> Hugo 配置 </description>
+      <description> Github pages 配置  创建以用户名开头+.github.io的项目   Hugo 配置  hugo 入门
+ hugo quick start  hugo github pages 整合
+ integrating github pages and hugo   trouble shooting  hugo 未发布pags的问题
+hugo --cleanDestinationDir -c content -v -D 构建web  hugo 图片放置路径和相对路径不顺手的问题
+使用 hugo-image 插件解决  apm deploy插件的问题
+git remote set-url https://&amp;lt;username&amp;gt;:&amp;lt;password&amp;gt;@github.com/&amp;lt;username&amp;gt;/&amp;lt;repo_name&amp;gt;.git git config --global credential.helper wincred apm publish 0.0.0   </description>
     </item>
     
   </channel>
